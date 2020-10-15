@@ -1,0 +1,115 @@
+* {
+    box-sizing: border-box;
+    -moz-user-select: none !important;
+    -ms-user-select: none !important;
+    user-select: none !important;
+}
+body {
+    box-sizing: border-box;
+    -moz-user-select: none !important;
+    -ms-user-select: none !important;
+    user-select: none !important;
+    font-family: 'SolaimanLipi', sans-serif;
+}
+html {
+    scroll-behavior: smooth;
+}/*
+.fixed-top {
+    position: fixed;
+    top: -75px;
+    background: rgba(29, 26, 26, 0.9);
+    background: white;
+    transform: translateY(75px);
+    transition: transform 500ms ease, background 500ms ease !important;
+    box-shadow: 0px 3px 16px 0px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    color: black;
+}*/
+
+.menu-icon {
+    font-size: 28px !important;
+    color: red;
+}
+
+.img-cover{
+    background-position: center;
+    background-size: cover;
+    width: 1950px;
+    height: 550px;
+}
+.btn-header{
+    color: white;
+    background: #1565c0;
+}
+.btn-header:hover{
+    color: white;
+    background: #007bff;
+}
+.text-header{
+    color: #1565c0;
+}
+.gray-clr{
+    background-color: #f1f1f1;
+}
+.web-title{
+    /*background-image: linear-gradient(45deg, #007bff,#007bff, #dc3545);*/
+    background: #1565c0;
+    padding: 10px;
+    color: black;
+}
+.logo-img{
+    width: 80px;
+    height: 80px;
+}
+.logo-title{
+    font-size: 35px;
+    text-decoration: none;
+    color:white;
+    font-family: 'Raleway', sans-serif;
+}
+.sub-title{
+    color:white;
+    font-size: 15px;
+    
+}
+.nav-link{
+    color:white;
+}
+.nav-link:hover{
+    color:white;
+}
+.nav-item{
+    font-size: 18px;
+}
+
+
+#service-section i {
+  padding: 5px;
+  font-weight: normal;
+}
+
+#service-section .cir-icon {
+  width: 90px;
+  height: 90px;
+  font-size: 60px;
+  border: 1px dashed #1565c0;
+  border-radius: 100%;
+  padding: 14px; }
+
+.preparation-blood-donor{
+    background-color: #1565c036;
+    border: 1px solid #1565c0;
+    border-radius: 10px;
+    padding: 15px;
+    margin-top: 10px;
+}
+.line-space{
+    margin-bottom: 12px;
+}
+.txt-size{
+    font-size: 15px;
+}
+
+.footer{
+    height: auto;
+}
